@@ -2,7 +2,7 @@
 ## Quote Generator
 
 **Overview:**
-The Quote Generator is a simple web application that allows users to generate random quotes. It fetches a random quote from the [Quotable API](https://quotable.io/) and displays it on the webpage. Users can also tweet the displayed quote if they find it interesting.
+The Quote Generator is a simple web application that allows users to generate random quotes. It fetches a random quote from the Quotable Api and displays it on the webpage. Users can also tweet the displayed quote if they find it interesting.
 
 **Features:**
 - Generates a new random quote with the click of a button.
