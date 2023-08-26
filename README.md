@@ -7,7 +7,7 @@ The Quote Generator is a simple web application that allows users to generate ra
 
 **Features:**
 - Generates a new random quote with the click of a button.
-- Displays the quote text and the author's name.
+- Displays the quoted text and the author's name.
 - Allows users to share the quote on Twitter.
 
 **Technologies Used:**
@@ -20,7 +20,7 @@ The Quote Generator is a simple web application that allows users to generate ra
 **How to Use:**
 1. Open the webpage.
 2. Click the "New Quote" button to generate a random quote.
-3. The quote text and author's name will be displayed.
+3. The quoted text and author's name will be displayed.
 4. If you wish to share the quote, click the "Tweet" button to post it on Twitter.
 
 **Project Structure:**
