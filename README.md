@@ -1,4 +1,3 @@
----
 ## Quote Generator
 
 **Overview:**
